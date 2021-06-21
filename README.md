@@ -5,6 +5,9 @@ which is to introduce problem solving through algorithms to the students.
 The event is scheduled to happen between 21<sup>st</sup> June to 21<sup>th</sup>
 of June. 
 
+## Live Updates
+- [Challenge One](https://github.com/nexussjcet/7DaysofAlgo/tree/main/Challenge%201) is officially Live!
+
 ## How will this go down?
 - Students will be asked to implement a specific algorithm in a language of
   their choice. The code should be submitted to 
