@@ -1,18 +1,6 @@
 
 ```python
 
-""" 
-------------------------------------------------------------------------------------
-
-File                      :    Prime.py
-Description               :    Program to check if a natural number is prime or not
-Creator                   :    Akash Vijay
-Date                      :    21st June, 2021
-
-------------------------------------------------------------------------------------
-
-"""
-
 def prime_checker(number):
     global result                               
     result = 1
