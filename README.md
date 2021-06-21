@@ -8,6 +8,12 @@ of June.
 ## Live Updates
 - [Challenge One](https://github.com/nexussjcet/7DaysofAlgo/tree/main/Challenge%201) is officially Live!
 
+## I have a doubt. What do I do?
+You three options here:
+- Open an issue detailing your doubt.
+- Ask in the Official Community Group of Nexus SJCET.
+- Send us a mail. (Slow)
+
 ## How will this go down?
 - Students will be asked to implement a specific algorithm in a language of
   their choice. The code should be submitted to 
