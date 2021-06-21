@@ -1,8 +1,7 @@
 
 ```python
 
-def prime_checker(number):
-    global result                               
+def prime_checker(number):                              
     result = 1
     for temp_var in range(2, (number//2)+1):    
         if number % temp_var == 0:
@@ -23,8 +22,8 @@ prime_checker(number)
 
 ## Explanation
 
-1. A function named prime_checker() is defined. It contains: 
-    *  A global variable 'result' assigned with value 1 (returns True when accessed with bool function).
+1. A function named 'prime_checker()' is defined. It contains: 
+    *  A variable 'result' assigned with value 1 (returns True when accessed with bool function).
     *  A loop that checks the divisibilty of the passed arguement by numbers ranging from 2 to half of the passed argument.
     *  A print statement that returns the boolean value of 'result'.
 
