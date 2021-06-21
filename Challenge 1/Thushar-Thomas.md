@@ -17,9 +17,7 @@ def is_prime(num):  #Declaring a function
         return True
     else:
         return False
-        
 n = int(input("Enter a number: "))  #Getting a number from user
-
 is_prime(n)
 ```
 
