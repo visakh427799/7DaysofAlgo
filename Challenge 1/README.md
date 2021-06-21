@@ -49,7 +49,9 @@ print is_prime(7)
 - Fork the 7 Days of Algorithm 
   [GitHub repo](https://github.com/nexussjcet/7DaysofAlgo).
 - Add your submission as a markdown file that includes your code and 
-  an explanation of your code to `Challenge 1` folder.
+  an explanation of your code to `Challenge 1` folder. You can use this
+  [submission template](https://github.com/nexussjcet/7DaysofAlgo/blob/main/Challenge%201/Submission%20Template.md)
+  for reference.
 - The file name of your markdown file should be your full name.
 - Once you've added your markdown file to the folder, open a PR against main
   repo. An open pull request is considered a successful submission.
