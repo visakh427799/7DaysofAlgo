@@ -1,3 +1,6 @@
+
+```python
+
 """ 
 ------------------------------------------------------------------------------------
 
@@ -10,7 +13,6 @@ Date                      :    21st June, 2021
 
 """
 
-```python
 def prime_checker(number):
     global result                               
     result = 1
