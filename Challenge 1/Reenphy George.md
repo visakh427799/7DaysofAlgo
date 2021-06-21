@@ -31,7 +31,7 @@ class Main
 
 - In this case the time complexity is **O(n)**.
 
-- Actually we don't have to check upto the n-1. We just have to check upto floor value of n/2
+- Actually we don't have to check upto n-1. We just have to check upto the floor value of n/2.
 
 - Consider n = 15, floor value of n/2 becomes 7. So we will check from 2 to 7. 
 
