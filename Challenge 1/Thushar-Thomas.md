@@ -25,7 +25,7 @@ is_prime(n)
 
 # Explanation
 The program above checks whether the number from the user is a prime number or not. 
-<p>Prime number is a number that has only 2 factors. In this progam we check the number of factors for a number using for loop and if condition.</p>
-If the number only has 2 factors, 'if else condition' returns 'True'. If not 'False'.
+<p>Prime number is a number that has only 2 factors. In this progam we check the number of factors for a number using for loop and if condition.
+If the number only has 2 factors, 'if else condition' returns 'True'. If not 'False'.</p>
 
 <p>Thank you</p>
