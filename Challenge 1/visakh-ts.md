@@ -1,15 +1,15 @@
 # Code
 ```
-const isPrime = num=>{
+ const isPrime = num=>{
     let i;
-    for(i=(num-1)/2;i>1;i--){
-        if(num%i===0)
+     for(i=2;i<num;i++){
+       if(num%i===0)
             return false
     }
-    return true
-}
+  return true
+ }
 
-isPrime(347)
+console.log(isPrime(4))
 ```
 
 # Explanation
